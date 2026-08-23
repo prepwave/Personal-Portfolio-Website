@@ -24,7 +24,22 @@
       name: "JalRide",
       tagline: "Smart Boat Booking Platform",
       description: "A boat booking platform for tourists, built as part of a 4-member team for Smart India Hackathon (College Level). Includes a digital ticket management system with interactive JavaScript features for passenger tracking and safety, and a responsive, cross-device UI delivered under a fixed hackathon timeline.",
-      tech: ["HTML", "CSS", "JavaScript"],
+      tech: [
+  "HTML5",
+  "CSS3",
+  "JavaScript",
+  "Node.js",
+  "Express.js",
+  "MongoDB",
+  "MongoDB Atlas",
+  "JWT Authentication",
+  "Razorpay",
+  "REST API",
+  "Multer",
+  "QR Code",
+  "Nodemailer",
+  "Vercel"
+],
       github: "",
       live: "https://jalride-v1.vercel.app/"
     },
